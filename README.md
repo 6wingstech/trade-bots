@@ -10,7 +10,7 @@ HOW TO USE:
 
 1. MARKET MAKING BOT
 
-This bot is designed to use a REST API to gather live data at given intervals, make calculations, and execute trades off those calculations. It is set up for market making on cryptocurrency exchanges. It will not work in this current state, but can be made functional easily by doing the following:
+This bot is designed to use a REST API to gather live data at given intervals, make calculations, and execute trades off those calculations. It is set up for market making on cryptocurrency exchanges. It will not work as is, but can be made functional easily by doing the following:
   - Input settings for the algorithm at the top of the file, or make your own algo altogether.
   - Add a wrapper to connect to your exchange, and input appropriate credentials
   - Make sure that the wrapper functions are tied correctly to the bot file
