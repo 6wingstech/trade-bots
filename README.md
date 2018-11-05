@@ -89,4 +89,4 @@ Try different things. What you think should work usually doesnt, so keep backtes
   4. Think like a bot. Patience is not an issue and the fact that cryptocurrencies trade 24/7 is a huge advantage. The most profitable     strategies for me were the most boring ones a human could never do. 
   
   
-  Experience: 11+ years trading stocks, derivatives, and now cryptocurrencies. I manage a small portfolio of several investors run 100% by algorithms. jp@6wingstech.com
+  Experience: 11+ years trading stocks, derivatives, and now cryptocurrencies. I manage a small portfolio of several investors run 100% by algorithms. I am interested in consistency rather than chasing big gains. jp@6wingstech.com
