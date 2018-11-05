@@ -48,6 +48,8 @@ How it works:
 
 This file is still quite messy and I will continue to add to it.
 
+The algorithm will be saved into a .pkl file and will be loaded from there to make predictions in live trading. The input from the live data must be in the exact same format/order as was used during the training.
+
 My experience with machine learning in trading is mixed and my overall opinion is that it is rather unreliable, but I still do believe there is potential. Having said that, I have 2 comments regarding ML:
   1. Use machine learning for deciding variables, not for actual trading. In other words, use ML to optimize position sizes, profit margins, etc. - all the variables a human would have to decide on their own. This is where ML really shines, in optimizing efficiency and in support, rather than proprietary trading on its own.
   2. If you really want to implement ML into a trading strategy, pair it with triggers! In other words, don't feed the entire dataset into a ML algorithm and expect it to figure it out. Filter your data through triggers and then run it through ML. For example, use the MACD to generate buy triggers and feed a dataset of just those triggers into ML to decide whether those were actual buys or not. 
